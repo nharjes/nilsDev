@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nilsDev
-- 👀 I’m interested in Front-End
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Front-End Stuff , Pizza and the NBA.
+- 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on Front-End Stuff
 - 📫 How to reach me via Github
 
